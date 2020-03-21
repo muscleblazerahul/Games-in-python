@@ -1,2 +1,3 @@
 # Games-in-python
-fun redpository for python games
+fun repository for python games
+1. Basic Snake Game
